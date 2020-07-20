@@ -1,0 +1,4 @@
+#org.springframework.context.ApplicationContextInitializer=\
+#  com.example.hiboot.linster.HelloApplicationContextInitializer
+#org.springframework.boot.SpringApplicationRunListener=\
+#  com.example.hiboot.linster.HelloSpringApplicationRunListener
